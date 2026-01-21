@@ -1,6 +1,6 @@
 # 📈 NIFTY50 Top 20 Data Snapshot
 
-Last updated: 2026-01-21 15:54:15 IST
+Last updated: 2026-01-21 16:25:32 IST
 
 ## RELIANCE.NS
 
@@ -70,8 +70,8 @@ Last updated: 2026-01-21 15:54:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-21 15:29:00+05:30</td><td>1996.0999755859375</td><td>4346</td></tr>
   <tr><td>2026-01-21 15:28:00+05:30</td><td>2001.800048828125</td><td>37593</td></tr>
-  <tr><td>2026-01-21 15:27:00+05:30</td><td>1998.5999755859375</td><td>19532</td></tr>
 </table>
 
 ## KOTAKBANK.NS
@@ -238,8 +238,8 @@ Last updated: 2026-01-21 15:54:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-21 15:29:00+05:30</td><td>907.1500244140625</td><td>7464</td></tr>
   <tr><td>2026-01-21 15:28:00+05:30</td><td>907.7000122070312</td><td>11745</td></tr>
-  <tr><td>2026-01-21 15:27:00+05:30</td><td>907.5</td><td>7287</td></tr>
 </table>
 
 ## DIVISLAB.NS
@@ -254,8 +254,8 @@ Last updated: 2026-01-21 15:54:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-21 15:29:00+05:30</td><td>9179.0</td><td>287</td></tr>
   <tr><td>2026-01-21 15:28:00+05:30</td><td>9197.5</td><td>706</td></tr>
-  <tr><td>2026-01-21 15:27:00+05:30</td><td>9181.5</td><td>1032</td></tr>
 </table>
 
 ## DRREDDY.NS
@@ -270,8 +270,8 @@ Last updated: 2026-01-21 15:54:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-21 15:29:00+05:30</td><td>1174.5999755859375</td><td>5153</td></tr>
   <tr><td>2026-01-21 15:28:00+05:30</td><td>1173.5</td><td>6181</td></tr>
-  <tr><td>2026-01-21 15:27:00+05:30</td><td>1176.0</td><td>6681</td></tr>
 </table>
 
 ## BRITANNIA.NS
@@ -318,8 +318,8 @@ Last updated: 2026-01-21 15:54:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-21 15:29:00+05:30</td><td>939.2000122070312</td><td>7213</td></tr>
   <tr><td>2026-01-21 15:28:00+05:30</td><td>939.6500244140625</td><td>16988</td></tr>
-  <tr><td>2026-01-21 15:27:00+05:30</td><td>940.0</td><td>17138</td></tr>
 </table>
 
 ## COALINDIA.NS
@@ -358,8 +358,8 @@ Last updated: 2026-01-21 15:54:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-21 15:29:00+05:30</td><td>1378.5999755859375</td><td>2728</td></tr>
   <tr><td>2026-01-21 15:28:00+05:30</td><td>1378.699951171875</td><td>12569</td></tr>
-  <tr><td>2026-01-21 15:27:00+05:30</td><td>1380.0999755859375</td><td>15488</td></tr>
 </table>
 
 ## SBILIFE.NS
@@ -406,8 +406,8 @@ Last updated: 2026-01-21 15:54:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-21 15:29:00+05:30</td><td>1222.5</td><td>22372</td></tr>
   <tr><td>2026-01-21 15:28:00+05:30</td><td>1221.5999755859375</td><td>3528</td></tr>
-  <tr><td>2026-01-21 15:27:00+05:30</td><td>1222.199951171875</td><td>1948</td></tr>
 </table>
 
 ## DABUR.NS
@@ -438,8 +438,8 @@ Last updated: 2026-01-21 15:54:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-21 15:29:00+05:30</td><td>2123.10009765625</td><td>490</td></tr>
   <tr><td>2026-01-21 15:28:00+05:30</td><td>2125.60009765625</td><td>1867</td></tr>
-  <tr><td>2026-01-21 15:27:00+05:30</td><td>2126.10009765625</td><td>982</td></tr>
 </table>
 
 ## HAVELLS.NS
@@ -454,8 +454,8 @@ Last updated: 2026-01-21 15:54:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-21 15:29:00+05:30</td><td>35130.0</td><td>106</td></tr>
   <tr><td>2026-01-21 15:28:00+05:30</td><td>35230.0</td><td>116</td></tr>
-  <tr><td>2026-01-21 15:27:00+05:30</td><td>35200.0</td><td>188</td></tr>
 </table>
 
 ## SIEMENS.NS
@@ -478,8 +478,8 @@ Last updated: 2026-01-21 15:54:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-21 15:29:00+05:30</td><td>676.6500244140625</td><td>104715</td></tr>
   <tr><td>2026-01-21 15:28:00+05:30</td><td>676.4500122070312</td><td>29535</td></tr>
-  <tr><td>2026-01-21 15:27:00+05:30</td><td>676.6500244140625</td><td>24725</td></tr>
 </table>
 
 ## HINDZINC.NS
@@ -542,8 +542,8 @@ Last updated: 2026-01-21 15:54:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-21 15:29:00+05:30</td><td>276.1000061035156</td><td>25843</td></tr>
   <tr><td>2026-01-21 15:28:00+05:30</td><td>276.45001220703125</td><td>60908</td></tr>
-  <tr><td>2026-01-21 15:27:00+05:30</td><td>276.1000061035156</td><td>74391</td></tr>
 </table>
 
 ## IDEA.NS
@@ -638,8 +638,8 @@ Last updated: 2026-01-21 15:54:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-21 15:29:00+05:30</td><td>2417.199951171875</td><td>330</td></tr>
   <tr><td>2026-01-21 15:28:00+05:30</td><td>2423.300048828125</td><td>545</td></tr>
-  <tr><td>2026-01-21 15:27:00+05:30</td><td>2420.5</td><td>794</td></tr>
 </table>
 
 ## CUMMINSIND.NS
@@ -718,8 +718,8 @@ Last updated: 2026-01-21 15:54:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-21 15:29:00+05:30</td><td>33110.0</td><td>85</td></tr>
   <tr><td>2026-01-21 15:28:00+05:30</td><td>33160.0</td><td>154</td></tr>
-  <tr><td>2026-01-21 15:27:00+05:30</td><td>33145.0</td><td>107</td></tr>
 </table>
 
 ## JUBLFOOD.NS
@@ -758,7 +758,7 @@ Last updated: 2026-01-21 15:54:15 IST
 
 <table>
   <tr><th>Datetime</th><th>Close</th><th>Volume</th></tr>
+  <tr><td>2026-01-21 15:29:00+05:30</td><td>6242.0</td><td>1151</td></tr>
   <tr><td>2026-01-21 15:28:00+05:30</td><td>6220.0</td><td>1764</td></tr>
-  <tr><td>2026-01-21 15:27:00+05:30</td><td>6218.5</td><td>6585</td></tr>
 </table>
 
